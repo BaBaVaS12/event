@@ -1,0 +1,5 @@
+``` In The Name Of God ```
+Salam Be Hameye Player Haye MTA Man BaBaVaS Hastam [Scripter] 
+Ke Yek Resource Ro Ma Script Kardim Be Name Welcomer Ke Mitonid Vaghti Kasi Vared Servereton Shod
+Toye Chat Box Matn Mored Nazareton Ra Benevisad
+Va Shoma Mitonid Ghesmat Server.lua Berid Va Matn Mored Nazareton Ro Ghesmat outputChatBox Benevisid 

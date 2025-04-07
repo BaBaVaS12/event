@@ -1,0 +1,4 @@
+<meta>
+<info name="welcomer" author="BaBaVaS" version="1.0" />
+<script src="server.lua" type="server" />
+</meta>
